@@ -50,7 +50,7 @@ public class Soru3 {
         System.out.println("-------------------------------------");
         System.out.println("Islem Sonucu Guncel Bakiyeniz: " + bakiye + " TL");
         System.out.println("-------------------------------------");
-        
+        System.out.println("Programdan cikmak icin herhangi bir tusa basiniz...");
         scanner.close();
     }
 }
